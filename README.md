@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <iframe src="https://public.tableau.com/app/profile/prayag6124/viz/DWBIFinalProject/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
+    <iframe seamless frameborder="0" src="https://public.tableau.com/views/DWBIFinalProject/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
+
 </body>
 </html>
